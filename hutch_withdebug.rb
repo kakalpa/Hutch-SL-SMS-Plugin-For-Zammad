@@ -18,7 +18,7 @@ class Channel::Driver::Sms::Hutch
         { name: 'options::token', display: __('Token'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX' },
         { name: 'options::username', display: __('Username'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: 'username' },
         { name: 'options::password', display: __('Password'), tag: 'input', type: 'password', limit: 200, null: false, placeholder: 'password' },
-        { name: 'options::sender', display: __('Sender'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: '00491710000000' },
+        { name: 'options::sender', display: __('Sender'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: '0700000000' },
         { name: 'options::champain', display: __('Champain'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: 'campaign name' },
         { name: 'options::mask', display: __('Mask'), tag: 'input', type: 'text', limit: 200, null: false, placeholder: 'mask' },
       ]
