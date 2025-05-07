@@ -8,7 +8,7 @@
 
 - Download the .zmp file (Pre Packaged Version of the Addon)
 - Go to Zammad Settings <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gear.svg" width="20" height="20" alt="gear icon"> -> Packages
-- Choose File -> Choose the File -> Click Install Package.
+- Choose File -> Choose the File -> Click Install Package
 
 - After Installing it is recommended to Run Below Commands On your Zammad Instance.
 - ```zammad run rake zammad:package:migrate```
